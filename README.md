@@ -7,6 +7,8 @@ Bienvenidos al repositorio oficial de la asignatura **Digitalización aplicada a
   <img src="./Calendario.png"  width="400px">
 </p>
 
+Enlace Meet: https://meet.google.com/mmj-fego-rfm
+
 ---
 
 ## 🧩 Resultados de Aprendizaje (RA)
