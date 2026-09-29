@@ -55,10 +55,7 @@ Por lo tanto, los modelos de producción de la Economía Circular tienen una ser
 * *Creación de empleo local*: Nuevas oportunidades en sectores de reparación, mantenimiento, reciclaje y logística inversa.
 * *Mejora de la competitividad*: Las empresas pueden reducir costes y adaptarse mejor a normativas ambientales cada vez más exigentes.
 
-Estos beneficios contribuyen a mejorar la sostenibilidad del sistema productivo, haciéndolo más resiliente, eficiente y respetuoso con el entorno. A continuación tienes algunos recursos para ampliar el concepto de economía circular.
-
-* Vídeo ["Economía circular. Tus actos, tu huella"](https://youtu.be/Hfn-ZDrp3Mw),  del Ministerio Transición Ecológica y Reto Demográfico
-* Informe ["Plan de acción para una economía circular"](https://ec.europa.eu/commission/presscorner/detail/es/fs_20_437), de la Comisión Europea.
+Estos beneficios contribuyen a mejorar la sostenibilidad del sistema productivo, haciéndolo más resiliente, eficiente y respetuoso con el entorno. 
 
 
 <table>
