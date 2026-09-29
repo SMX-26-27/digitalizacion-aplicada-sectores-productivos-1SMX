@@ -87,7 +87,6 @@ Una vez leído el artículo, vamos a trabajar sobre las siguientes cuestiones a 
 * ¿Qué es lo que más nos ha llamado la atención de todo lo aprendido? 
 * ¿Cómo podemos reducir los efectos sobre el medioambiente de la industria fast fashion?
 * ¿Qué acciones podemos pone en marcha en nuestro entorno para reducir el consumo de ropa y alargar su vida útil?
-* Anota tus respuestas en el Archivo LOG con la extensión. DEC
 
 ---
 
@@ -101,7 +100,7 @@ Estos son algunos casos de éxito en la adopción del modelo económico de la ec
 
 * [Ecoalf](https://ecoalf.com/pages/innovacion-y?srsltid=AfmBOorjNoTfUNeQZMdmrFDrFsacr793dlc-veHohskknTZvqKhOg-k1): Ecoalf es una marca de moda sostenible, con una propuesta de valor potente: ofrecer productos realizados con materiales 100% reciclados a un precio competitivo y manteniendo un alto grado de calidad y diseño. Las etiquetas de su ropa tienen información sobre los materiales utilizados y permiten al consumidor aplicar valores de sostenibilidad en sus compras. 
 
-¿Se te ocurre algún otro caso de éxito? ¿Crees que este modelo se puede aplicar a las empresas de tu sector profesional?. Reflexiona sobre estas cuestiones a las que volveremos en el reto del escáner de sostenibilidad.
+¿Se te ocurre algún otro caso de éxito? ¿Crees que este modelo se puede aplicar a las empresas de tu sector profesional?. 
 
 
 ---
