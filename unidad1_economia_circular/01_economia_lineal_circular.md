@@ -106,7 +106,7 @@ Estos son algunos casos de éxito en la adopción del modelo económico de la ec
 
 $$\Large \textcolor{green}{\textbf{Actividad de Investigación}}$$
 
-| ⚡ [Ir a la Actividad de Investigación](AC101.md) |
+| ⚡ [Ir a la Actividad de Investigación](./actividades/AC101.md) |
 | :---: |
 
 </div>
