@@ -154,7 +154,7 @@ $$\Large \textcolor{green}{\textbf{Actividad: Une cada término con su descripci
 
 $$\Large \textcolor{green}{\textbf{Actividad Análisis de la implantación tecnológica en la empresa}}$$
 
-| ⚡ [Ir a la Actividad](AC102.md) |
+| ⚡ [Ir a la Actividad](./actividades/AC102.md) |
 | :---: |
 
 </div>
