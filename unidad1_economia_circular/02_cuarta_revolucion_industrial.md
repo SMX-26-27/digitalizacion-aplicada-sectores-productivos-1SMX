@@ -70,6 +70,19 @@ En un mercado cada vez más competitivo, las empresas necesitan:
 * **Reducir el impacto medioambiental**, aplicando soluciones inteligentes que optimizan el uso de energía y materiales.
 
 
+---
+
+<div align="center">
+
+$$\Large \textcolor{green}{\textbf{Actividad: ¿Cuánto has entendido sobre la Industria 4.0?}}$$
+
+| ⚡ [Ir a la actividad: ¿Cuánto has entendido sobre la Industria 4.0?](https://smx-26-27.github.io/cuestionarios_digitalizacion/actividad-industria40/) |
+| :---: |
+
+</div>
+
+---
+
 ## 5. Tecnologías habilitadoras: cómo se unen el mundo físico y el virtual en la Industria 4.0
 
 Las **tecnologías habilitadoras** son las herramientas que hacen posible el funcionamiento de los sistemas ciberfísicos. Gracias a ellas, máquinas, datos y software trabajan de forma integrada, permitiendo una conexión total entre el mundo físico y el digital.
@@ -95,6 +108,17 @@ Estas tecnologías están redefiniendo la forma de producir, interconectar y man
 >[!NOTE]
 > 🧠 Curiosidad: El uso de IA para inspección de calidad ha logrado detectar defectos en productos que eran invisibles al ojo humano… ¡y en fracciones de segundo!
 > 
+
+---
+
+<div align="center">
+
+$$\Large \textcolor{green}{\textbf{Actividad: Une cada término con su descripción}}$$
+
+| ⚡ [Ir a la actividad: Actividad: Une cada término con su descripción](https://smx-26-27.github.io/cuestionarios_digitalizacion/actividad_revoluciones_4_0_5_0/) |
+| :---: |
+
+</div>
 
 ---
 
@@ -139,22 +163,12 @@ Aunque la Industria 4.0 ofrece muchas oportunidades para reducir el impacto ambi
 Para que la Industria 4.0 sea realmente sostenible, no basta con automatizar o digitalizar. Es fundamental integrar criterios ambientales en el diseño, la gestión y el ciclo de vida de las tecnologías. Solo así será posible construir un modelo productivo que combine eficiencia, innovación y responsabilidad ambiental.
 
 
-<div align="center">
-
-$$\Large \textcolor{green}{\textbf{Actividad: Une cada término con su descripción}}$$
-
-| ⚡ [Ir a la actividad: Actividad: Une cada término con su descripción](https://smx-26-27.github.io/cuestionarios_digitalizacion/actividad_revoluciones_4_0_5_0/) |
-| :---: |
-
-</div>
-
----
 
 <div align="center">
 
 $$\Large \textcolor{green}{\textbf{Actividad Análisis de la implantación tecnológica en la empresa}}$$
 
-| ⚡ [Ir a la Actividad](./actividades/AC102.md) |
+| ⚡ [Ir a la Actividad](AC102.md) |
 | :---: |
 
 </div>
