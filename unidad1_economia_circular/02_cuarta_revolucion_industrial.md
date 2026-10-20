@@ -168,7 +168,7 @@ Para que la Industria 4.0 sea realmente sostenible, no basta con automatizar o d
 
 $$\Large \textcolor{green}{\textbf{Actividad Análisis de la implantación tecnológica en la empresa}}$$
 
-| ⚡ [Ir a la Actividad](AC102.md) |
+| ⚡ [Ir a la Actividad](./actividades/AC102.md) |
 | :---: |
 
 </div>
