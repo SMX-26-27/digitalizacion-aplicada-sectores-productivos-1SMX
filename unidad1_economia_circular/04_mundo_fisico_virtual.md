@@ -20,7 +20,7 @@ Pero, y esto es importante, no se trata de sustituir personas, sino de mejorar s
 
 $$\Large \textcolor{green}{\textbf{Actividad ¿Qué hay detrás de una empresa inteligente?}}$$
 
-| ⚡ [Ir a la Actividad](AC102.md) |
+| ⚡ [Ir a la Actividad](./actividades/AC102.md) |
 | :---: |
 
 </div>
