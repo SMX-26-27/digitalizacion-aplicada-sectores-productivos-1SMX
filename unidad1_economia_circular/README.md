@@ -15,13 +15,8 @@ En esta unidad vamos a trabajar, en primer lugar, los conceptos de economía lin
    * Cuarta Revolución Industrial
    * La quinta revolución industrial
    * Actividad: Completa los huecos
-3. [Digitalización y Software libre](03_digitalizacion_software_libre.md)
-   * Digitalización y Software libre
-   * El papel del software libre en la transformación digital hacia la Industria 4.0 y 5.0
-4. [Del mundo físico al virtual](04_mundo_fisico_virtual.md)
-   * Del mundo físico al virtual: automatización y sistemas ciberfísicos
-   * Qué hay detrás de una empresa inteligente?
-5. [RETO: Plan 360](05_reto_plan_360.md)
+3. [Migración a Industria 4.0](03_migracion_industria_4.md)
+
 ---
 
 ## 🎯 Objetivos de la Unidad
