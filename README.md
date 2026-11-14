@@ -22,11 +22,11 @@ RA5. Elabora un plan de transformación de una empresa clásica del sector en el
 
 ## 🗂️ Estructura del repositorio
 
-digitalizacion/
-├── tema1/ Unidad 1 · Economía Circular (RA1 y RA2)
-├── tema2/ Unidad 2 · Sistemas digitalizados y THD (RA4)
-├── tema3/ Unidad 3 · La nube (RA3)
-├── tema4/ Unidad 4 · Plan de transformación digital de la pyme (RA5)
+digitalizacion/  
+├── tema1/ Unidad 1 · Economía Circular (RA1 y RA2)  
+├── tema2/ Unidad 2 · Sistemas digitalizados y THD (RA4)  
+├── tema3/ Unidad 3 · La nube (RA3)  
+├── tema4/ Unidad 4 · Plan de transformación digital de la pyme (RA5)  
 
 ---
 
